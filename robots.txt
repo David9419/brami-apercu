@@ -1,0 +1,3 @@
+# Version de test : le site ne doit pas être indexé.
+User-agent: *
+Disallow: /
